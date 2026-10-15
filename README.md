@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Cyrus Olubi, I go to UWu-Madison
 <!--
 **CyrusOlubi/CyrusOlubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
